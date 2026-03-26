@@ -21,8 +21,11 @@ https://betterdraft.fitzroyz.com/public/dashboard/f513e89e-fe08-40da-b7c5-8b96cf
 
 # Some screenshots
 
+<img width="1122" height="886" alt="team draft preference T1" src="https://github.com/user-attachments/assets/4def26ae-646c-479b-886c-8baefa67e0f4" />
 
+<img width="1106" height="745" alt="players comparison board b" src="https://github.com/user-attachments/assets/522bf690-51b9-48b7-9e01-1c2dcfd3fd22" />
 
+<img width="1094" height="762" alt="players comparison board" src="https://github.com/user-attachments/assets/f9569c5d-08c6-421a-9163-4b9ec09a8c39" />
 
 
 # Licensing & Open Usage
