@@ -17,7 +17,7 @@ As a data professional with extensive experience in managing BI platforms, I rec
 
 # Dashboard Access
 
-[[The board]]((https://betterdraft.fitzroyz.com/public/dashboard/f513e89e-fe08-40da-b7c5-8b96cf874b23))
+https://betterdraft.fitzroyz.com/public/dashboard/f513e89e-fe08-40da-b7c5-8b96cf874b23
 
 # Some screenshots
 
